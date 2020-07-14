@@ -1,0 +1,9 @@
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss593.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss466.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss675.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss95.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss735.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss427.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss711.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss7.jpg
+/content/colab_face_mask/VOCdevkit/VOC2007/JPEGImages/maksssksksss383.jpg

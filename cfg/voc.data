@@ -1,0 +1,6 @@
+classes= 2
+train  = /content/colab_face_mask/2007_train.txt
+valid  = /content/colab_face_mask/2007_test.txt
+names = /content/colab_face_mask/data/voc.names
+backup = /content/colab_face_mask/backup
+
